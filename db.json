@@ -1,0 +1,12 @@
+{
+    "product":[
+        {"id":1, "nameProduct":"Curso de ingles", "description":"Curso de ingles para iniciante e avançado. Você não pode deixar de perder"}
+
+    ],
+    "template":[
+        {"src":"https://images.pexels.com/photos/301926/pexels-photo-301926.jpeg", "link":"https://www.google.com"}
+    ],
+    "produtor":[
+        {"id":"prod-01", "name":"English Joaquim"}
+    ]
+}
